@@ -1,0 +1,9 @@
+numpy==1.17.4
+selectolax==0.2.4
+pandas==0.25.3
+requests==2.22.0
+openpyxl==3.0.4
+selenium==4.0.0.a7
+webdriver-manager==3.2.2
+fake-useragent==0.1.11
+fuzzywuzzy==0.18.0
