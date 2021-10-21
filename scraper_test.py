@@ -9,7 +9,7 @@ def main( ):
 
     capabilities = webdriver.DesiredCapabilities.CHROME.copy()
 
-    url_one = "'https://ca.indeed.com/jobs?q=%22Computer+Forensic+Investigator%22&l=Nova%20Scotia&filter=0&start=0"
+    url_one = "https://ca.indeed.com/jobs?q=%22Computer+Forensic+Investigator%22&l=Nova%20Scotia&filter=0&start=0"
     # paste the IP address of the cluster from step 1
     url = ""
 
