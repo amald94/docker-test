@@ -11,7 +11,7 @@ def main( ):
 
     url_one = "https://ca.indeed.com/jobs?q=%22Computer+Forensic+Investigator%22&l=Nova%20Scotia&filter=0&start=0"
     # paste the IP address of the cluster from step 1
-    url = "http://34.121.43.231:4444/wd/hub"
+    url = "https://34.121.43.231:4444/wd/hub"
 
     driver = webdriver.Remote(
         command_executor=url,
